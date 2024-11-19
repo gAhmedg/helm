@@ -1,5 +1,6 @@
 nodeAffinity
 test
 test2
-remove host
+remove host/test
 2
+test worker2
