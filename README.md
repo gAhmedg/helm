@@ -12,3 +12,4 @@
 node
 daemonset
 2
+node afinty
